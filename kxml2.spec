@@ -32,7 +32,7 @@
 
 Name:           kxml2
 Version:        2.2.2
-Release:        %mkrel 2.0.2
+Release:        %mkrel 2.0.3
 Epoch:          0
 Summary:        Small XML pull parser specially designed for constrained environments
 License:        BSD
