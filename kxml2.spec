@@ -114,3 +114,19 @@ rm -rf $RPM_BUILD_ROOT
 %{_javadocdir}/%{name}-%{version}/*
 %dir %{_javadocdir}/%{name}
 
+
+
+%changelog
+* Fri Dec 10 2010 Oden Eriksson <oeriksson@mandriva.com> 0:2.2.2-2.0.3mdv2011.0
++ Revision: 620044
+- the mass rebuild of 2010.0 packages
+
+* Fri Sep 04 2009 Thierry Vignaud <tv@mandriva.org> 0:2.2.2-2.0.2mdv2010.0
++ Revision: 429698
+- rebuild
+
+* Thu Jul 10 2008 Alexander Kurtakov <akurtakov@mandriva.org> 0:2.2.2-2.0.1mdv2009.0
++ Revision: 233587
+- import kxml2
+
+
