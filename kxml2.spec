@@ -36,7 +36,7 @@ Release:        2.0.4
 Epoch:          0
 Summary:        Small XML pull parser specially designed for constrained environments
 License:        BSD
-URL:            http://kxml.sourceforge.net/
+URL:            https://kxml.sourceforge.net/
 Group:          Development/Java
 Source0:        http://dl.sourceforge.net/sourceforge/kxml/kxml2-src-2.2.2.zip
 Source1:        http://repo1.maven.org/maven2/net/sf/kxml/kxml2/2.2.2/kxml2-2.2.2.pom
